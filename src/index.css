@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#myBox {
+  width: 100%;
+}
+.word_container {
+  padding-left: 120px;
+  padding-top: 20px;
+}
+.container{
+  padding-top: 20px;
+}
+
